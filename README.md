@@ -11,7 +11,7 @@ Bu proje, atık ayrıştırma sürecini geliştirmek amacıyla görsel analiz te
 
 Python
 
-TensorFlow/Keras
+TensorFlow/Keras 
 
 OpenCV
 
