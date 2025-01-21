@@ -8,7 +8,7 @@ Bu proje, atık ayrıştırma sürecini geliştirmek amacıyla görsel analiz te
 
  
 👉Kullanılan Teknolojiler
-
+ 
 Python
 
 TensorFlow/Keras 
