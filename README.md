@@ -7,7 +7,7 @@
 Bu proje, atık ayrıştırma sürecini geliştirmek amacıyla görsel analiz tekniklerini kullanarak, farklı atık türlerinin otomatik olarak tanımlanmasını sağlamayı hedeflemektedir. Derin öğrenme yöntemleri ve bilgisayarla görme teknikleri kullanılarak, atıkların türlerine göre ayrıştırılması için bir model geliştirilmiştir.
 
  
-👉Kullanılan Teknolojiler
+👉Kullanılan Teknolojiler 
  
 Python
 
